@@ -10,5 +10,4 @@
      It acts as a centralized communication hub, fostering community bonds through shared information and updates.
 
  
-     "E:\smart bin pic.jpg"
-
+     ![Uploading smart bin pic.jpg…]()
