@@ -9,6 +9,6 @@
      
      It acts as a centralized communication hub, fostering community bonds through shared information and updates.
 
-
+ 
      ![Uploading WhatsApp Image 2024-06-05 at 14.31.31_8626bbdd.jpg…]()
 
