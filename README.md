@@ -1,4 +1,4 @@
-                                          #SMART DUSTBIN--REALTIME
+                                          # SMART DUSTBIN--REALTIME
      
      
      The Smart Dustbin uses ultrasonic sensors to detect individuals, enabling automatic door opening for a touch-free waste disposal experience.
